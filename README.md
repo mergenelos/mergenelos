@@ -9,15 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="src/icons/twitter.png"/></a>
+  <a href="https://twitter.com/makerlik"><img width="32px" alt="Twitter" title="Twitter" src="src/icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Gmail" title="Gmail" src="src/icons/gmail.png"/></a>
+  <a href="murtazamakasaadi@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="src/icons/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src="src/icons/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/murtaza-asaadi-9b583a138/"><img width="32px" alt="Linkedin" title="Linkedin" src="src/icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Coursera" title="Coursera" src="src/icons/coursera.png"></a>
+  <a href="https://www.coursera.org/user/58aafc3c99e17d0c95a731c88c263bb2"><img width="32px" alt="Coursera" title="Coursera" src="src/icons/coursera.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Telegram" title="Telegram" src="src/icons/telegram.png"/></a>
+  <a href="https://t.me/makerlik"><img width="32px" alt="Telegram" title="Telegram" src="src/icons/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
