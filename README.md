@@ -30,43 +30,43 @@
 
   <h4 align="center">Programming languages</h4>  
 <div align="center">  
-    <a href=""><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href=""><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href=""><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href=""><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-      <a href=""><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href=""><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+      <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 </div>
   </td>
   <td valign="top" width="33%">
 
 <h4 align="center">Frameworks and platforms</h4> 
   <div align="center"> 
-    <a href=""><img alt="QT" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"></a>
-    <a href=""><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-    <a href=""><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href=""><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href=""><img alt="Flask" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href=""><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-    <a href=""><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a>
+    <a href="https://www.qt.io/"><img alt="QT" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"></a>
+    <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+    <a href="https://www.ros.org/"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a>
 </div>
   </td>
   <td valign="top" width="33%">
 
 <h4 align="center">Design</h4>   
 <div align="center">  
- <a href=""><img alt="Blender" style="margin: 10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
- <a href=""><img alt="FreeCad" style="margin: 10px" src="https://img.shields.io/badge/freecad-FD3A5C.svg?style=for-the-badge&logo=&logoColor=white"/></a>
- <a href=""><img alt="Fusion 360" style="margin: 10px" src="https://img.shields.io/badge/fusion 360-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
- <a href=""><img alt="Inventor" style="margin: 10px" src="https://img.shields.io/badge/inventor-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
- <a href=""><img alt="KiCad" style="margin: 10px" src="https://img.shields.io/badge/kicad-0078D4.svg?style=for-the-badge&logo=&=white"/></a>
- <a href=""><img alt="Eagle" style="margin: 10px" src="https://img.shields.io/badge/eagle-%23F5792A.svg?style=for-the-badge&logo=&=white"/></a>
- <a href=""><img alt="Altium" style="margin: 10px" src="https://img.shields.io/badge/altium-000000.svg?style=for-the-badge&logo=&=white"/></a>
-  <a href=""><img alt="Figma" style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href=""><img alt="Krita" style="margin: 10px" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
-  <a href=""><img alt="Inkscape" style="margin: 10px" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/></a>
+ <a href="https://www.blender.org/"><img alt="Blender" style="margin: 10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
+ <a href="https://www.freecadweb.org/"><img alt="FreeCad" style="margin: 10px" src="https://img.shields.io/badge/freecad-FD3A5C.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription"><img alt="Fusion 360" style="margin: 10px" src="https://img.shields.io/badge/fusion 360-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href="https://www.autodesk.com/products/inventor/overview?term=1-YEAR&tab=subscription"><img alt="Inventor" style="margin: 10px" src="https://img.shields.io/badge/inventor-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href="https://www.kicad.org/"><img alt="KiCad" style="margin: 10px" src="https://img.shields.io/badge/kicad-0078D4.svg?style=for-the-badge&logo=&=white"/></a>
+ <a href="https://www.autodesk.com/products/eagle/overview"><img alt="Eagle" style="margin: 10px" src="https://img.shields.io/badge/eagle-%23F5792A.svg?style=for-the-badge&logo=&=white"/></a>
+ <a href="https://www.altium.com/"><img alt="Altium" style="margin: 10px" src="https://img.shields.io/badge/altium-000000.svg?style=for-the-badge&logo=&=white"/></a>
+  <a href="https://www.figma.com/"><img alt="Figma" style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://krita.org/en/"><img alt="Krita" style="margin: 10px" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
+  <a href="https://inkscape.org/"><img alt="Inkscape" style="margin: 10px" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/></a>
 </div>
   </td>
   </tr>
