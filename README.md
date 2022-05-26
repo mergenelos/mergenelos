@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/makerlik"><img width="32px" alt="Twitter" title="Twitter" src="src/icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="murtazamakasaadi@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="src/icons/gmail.png"/></a>
+  <a href="mailto: murtazamakasaadi@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="src/icons/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/murtaza-asaadi-9b583a138/"><img width="32px" alt="Linkedin" title="Linkedin" src="src/icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
