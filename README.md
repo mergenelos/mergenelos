@@ -52,6 +52,7 @@
     <a href=""><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
     <a href=""><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href=""><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href=""><img alt="Flask" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href=""><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
     <a href=""><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a>
 </div>
@@ -60,7 +61,16 @@
 
 <h4 align="center">Design</h4>   
 <div align="center">  
- <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>  
+ <a href=""><img alt="Blender" style="margin: 10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
+ <a href=""><img alt="FreeCad" style="margin: 10px" src="https://img.shields.io/badge/freecad-FD3A5C.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href=""><img alt="Fusion 360" style="margin: 10px" src="https://img.shields.io/badge/fusion 360-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href=""><img alt="Inventor" style="margin: 10px" src="https://img.shields.io/badge/inventor-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+ <a href=""><img alt="KiCad" style="margin: 10px" src="https://img.shields.io/badge/kicad-0078D4.svg?style=for-the-badge&logo=&=white"/></a>
+ <a href=""><img alt="Eagle" style="margin: 10px" src="https://img.shields.io/badge/eagle-%23F5792A.svg?style=for-the-badge&logo=&=white"/></a>
+ <a href=""><img alt="Altium" style="margin: 10px" src="https://img.shields.io/badge/altium-000000.svg?style=for-the-badge&logo=&=white"/></a>
+  <a href=""><img alt="Figma" style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href=""><img alt="Krita" style="margin: 10px" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
+  <a href=""><img alt="Inkscape" style="margin: 10px" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/></a>
 </div>
   </td>
   </tr>
