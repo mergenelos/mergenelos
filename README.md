@@ -1,5 +1,5 @@
 
-<h4 align="center"> Hi and Welcome, I am Murtaza Asaadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"></h4>
+<h4 align="center"> Hi and Welcome, I am Murtaza Asaadi </h4>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
