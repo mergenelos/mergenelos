@@ -23,66 +23,27 @@
 
 ---
 <p align="center"> 🔨 Tools and programs I use </p>
-
-  <table align="center" style="border:none;border-collapse: collapse;" >
-    <tr>
-      <td style="border:none;">
-        <a href="https://cppreference.com/">
-          <img src="https://skillicons.dev/icons?i=cpp" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/">
-          <img src="https://skillicons.dev/icons?i=bash" />
-        </a>
-        <a href="https://www.rust-lang.org/">
-          <img src="https://skillicons.dev/icons?i=rust" />
-        </a>
-        <a href="https://www.latex-project.org/">
-          <img src="https://skillicons.dev/icons?i=latex" />
-        </a>
-        <a href="https://www.lua.org/">
-          <img src="https://skillicons.dev/icons?i=lua" />
-        </a>
-      </td>  
-    </tr>
-    <tr>
-      <td style="border:none;">
-        <a href="https://www.mathworks.com/products/matlab.html">
-          <img src="https://skillicons.dev/icons?i=matlab" />
-        </a>    
-        <a href="https://www.python.org/">
-          <img src="https://skillicons.dev/icons?i=py" />
-        </a>
-        <a href="https://pytorch.org/">
-          <img src="https://skillicons.dev/icons?i=pytorch" />
-        </a>
-        <a href="https://www.kernel.org/">
-          <img src="https://skillicons.dev/icons?i=linux" />
-        </a>
-        <a href="https://archlinux.org/">
-          <img src="https://skillicons.dev/icons?i=arch" />
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td style="border:none;">
-        <a href="https://www.arduino.cc/">
-          <img src="https://skillicons.dev/icons?i=arduino" />
-        </a>
-        <a href="https://www.ros.org/">
-          <img src="https://skillicons.dev/icons?i=ros" />
-        </a>
-        <a href="https://git-scm.com/">
-          <img src="https://skillicons.dev/icons?i=git" />
-        </a>
-        <a href="https://www.vim.org/">
-          <img src="https://skillicons.dev/icons?i=vim" />
-        </a>
-        <a href="https://www.docker.com/">
-          <img src="https://skillicons.dev/icons?i=docker" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+      <a href="https://cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+      <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a>
+      <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" /></a>
+      <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" /></a>
+</p>
+<p align="center">
+      <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" /></a>  
+      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+      <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+      <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" /></a>  
+</p>
+<p align="center">
+      <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+      <a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros" /></a>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+      <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
+      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+</p>
 
 
 
