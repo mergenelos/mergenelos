@@ -25,7 +25,7 @@
 <p align="center"> 🔨 Tools and programs I use </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,bash,rust,latex,lua,matlab,py,anaconda,pytorch,linux,arch,arduino,ros,git,vim,docker" />
+    <img src="https://skillicons.dev/icons?i=cpp,bash,rust,latex,lua,matlab,py,pytorch,linux,arch,arduino,ros,git,vim,docker" />
   </a>
 </p>
 
