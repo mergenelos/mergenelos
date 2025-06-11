@@ -9,8 +9,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/mergenelos"><img width="32px" alt="Twitter" title="Twitter" src="src/icons/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <!-- <a href="https://twitter.com/mergenelos"><img width="32px" alt="Twitter" title="Twitter" src="src/icons/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="mailto: mergenelos@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="src/icons/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/murtaza-asaadi/"><img width="32px" alt="Linkedin" title="Linkedin" src="src/icons/linkedin.png"/></a>
