@@ -49,7 +49,7 @@
       </td>
       <td>
         <a href="https://github.com/mergenelos/mergenelos">
-          <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergenelos&layout=compact&langs_count=8&card_width=320" hspace="0" />
+          <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergenelos&layout=compact&langs_count=8&card_width=320&theme=transparent" hspace="0" />
         </a>
       </td>
     </tr>
