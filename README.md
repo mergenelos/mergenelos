@@ -46,11 +46,6 @@
               <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
               <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
         </p>
-      </td>
-      <td>
-        <a href="https://github.com/mergenelos/mergenelos">
-          <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergenelos&layout=compact&langs_count=8&card_width=320&theme=transparent" hspace="0" />
-        </a>
-      </td>
+
     </tr>
 </table>
