@@ -46,6 +46,5 @@
               <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
               <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
         </p>
-
     </tr>
 </table>
